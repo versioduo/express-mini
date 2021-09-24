@@ -1,0 +1,6 @@
+{
+  "cpu": {
+    "fqbn": "versioduo:samd:express-mini",
+    "name": "express-mini"
+  }
+}
